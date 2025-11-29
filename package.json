@@ -1,0 +1,14 @@
+{
+  "name": "gas-optimized-solidity-patterns",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "hardhat": "^2.14.0",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "chai": "^4.3.7"
+  },
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  }
+}
