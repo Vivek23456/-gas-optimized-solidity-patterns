@@ -18,4 +18,10 @@ A compact repo that demonstrates practical gas-saving patterns for Solidity deve
    - package.json
    - hardhat.config.ts
 2. Install:
+3. Compile:
+4. Run tests:
+
+## Notes
+- Use a linter and run static analyzers before production use.
+- Patterns shown are educational — measure gas with `hardhat test` and `gas-reporter` as needed.
 
